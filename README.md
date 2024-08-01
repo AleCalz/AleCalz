@@ -4,7 +4,7 @@
 ## Connect with me 🤝
 
 
-[![Gmail Badge](https://img.shields.io/badge/-calzadaloyaalejandra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calzadaloyaalejandra@gmail.com)](mailto:calzadaloyaalejandra@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-alejandracalzadaloya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandracalzadaloya/)](https://www.linkedin.com/in/alejandracalzadaloya/)
+[![Gmail Badge](https://img.shields.io/badge/-calzadaloyaalejandra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calzadaloyaalejandra@gmail.com)](mailto:calzadaloyaalejandra@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-alejandracalzadaloya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-calzada-loya/)](https://www.linkedin.com/in/alejandra-calzada-loya/)
 
 
 ## 💻 Tech Stack:
