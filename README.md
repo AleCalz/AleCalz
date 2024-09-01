@@ -1,5 +1,5 @@
 
-![Header](./github-header-image.png)
+![Header](./github-header-image%20(fullstack).png)
 
 ## Connect with me 🤝
 
